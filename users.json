@@ -16,5 +16,11 @@
 		"color": "green",
 		"material": "polyester",
 		"id": 2
+	},
+	{
+		"name": "Whale",
+		"color": "blue",
+		"material": "water",
+		"id": 3
 	}
 ]
